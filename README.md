@@ -15,3 +15,5 @@ management and departmental assignment</p>
 
 <h3>1.Login and Register</h3>
 <p>It has two dashboards one for citizen and another one for Authority.</p>
+
+![Login](images/
