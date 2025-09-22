@@ -10,3 +10,7 @@ geo-tags.
 All submissions populate a centralized GIS Dashboardfor authorities, 
 providing a real-time, city-wide operational view with tools for workflow 
 management and departmental assignment</p>
+
+<h1>Features</h1>
+
+<h4>Login and Register</h4>
