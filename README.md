@@ -17,3 +17,7 @@ management and departmental assignment</p>
 <p>It has two dashboards one for citizen and another one for Authority.</p>
 
 ![Login](images/ss1.png)
+
+<h3>2.Citizen Dashboard</h3>
+
+![Dashboard](citizen.png)
