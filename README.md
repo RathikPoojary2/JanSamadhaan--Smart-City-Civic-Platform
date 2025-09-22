@@ -20,4 +20,4 @@ management and departmental assignment</p>
 
 <h3>2.Citizen Dashboard</h3>
 
-![Dashboard](citizen.png)
+![Dashboard](images/citizen.png)
