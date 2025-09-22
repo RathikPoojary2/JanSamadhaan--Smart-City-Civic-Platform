@@ -57,3 +57,8 @@ management and departmental assignment</p>
   <li>Icons    -Font Awesome</li>
   <li>Data Storage - LocalStorage .</li>
 </ul>
+
+<h1>Installation</h1>
+<h3>Clone the repository</h3>
+<p>git clone https://github.com/RathikPoojary2/JanSamadhaan--Smart-City-Civic-Platform
+</p>
