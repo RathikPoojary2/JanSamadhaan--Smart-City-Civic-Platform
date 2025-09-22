@@ -50,3 +50,10 @@ management and departmental assignment</p>
 
 ![completed](images/completed.png)
 
+<h1>Tech/Frameworks</h1>
+
+<ul>
+  <li>Front End- HTML,CSS,JavaScript</li>
+  <li>Icons    -Font Awesome</li>
+  <li>Data Storage - LocalStorage .</li>
+</ul>
