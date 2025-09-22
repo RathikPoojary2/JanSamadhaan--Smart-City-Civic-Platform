@@ -48,5 +48,5 @@ management and departmental assignment</p>
 <h3>7.Complete Report</h3>
 <p>After the completion of work the administartor must fill the completion report by attaching the image,work details and cost</p>
 
-![completed](images/completed.gif)
+![completed](images/completed.png)
 
