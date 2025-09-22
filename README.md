@@ -19,5 +19,18 @@ management and departmental assignment</p>
 ![Login](images/ss1.png)
 
 <h3>2.Citizen Dashboard</h3>
+<p>Here the user can report a new issue. There will be a poassible problems as categories that occurs in the public area.The user has to select the category,giving the detailed description about the problem ,location and uploading the image.</p>
 
 ![Dashboard](images/citizen.png)
+
+<h3>3.Realtime Tracking</h3>
+
+<p>Users can track their report using the unique report id</p>
+
+![Tracking](images/tracking.gif)
+
+<h3>4.Viewing the submitted report</h3>
+
+<p>Users can view their submitted reports</p>
+
+![view](images/view.gif)
