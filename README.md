@@ -43,7 +43,7 @@ management and departmental assignment</p>
 <h3>6.Assigning the Work</h3>
 <p>The Muncipal administrator assigns the work to particular department and officer</p>
 
-![Assign](images/assign.gif)
+![Assign](images/assign.png)
 
 <h3>7.Complete Report</h3>
 <p>After the completion of work the administartor must fill the completion report by attaching the image,work details and cost</p>
