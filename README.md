@@ -34,3 +34,19 @@ management and departmental assignment</p>
 <p>Users can view their submitted reports</p>
 
 ![view](images/view.gif)
+
+<h3>5.Municipal Dashboard</h3>
+<p>Here the Administartor can view the reports issued by the citizens. they have to assign the work to the particular department</p>
+
+![municipal](images/muni.png)
+
+<h3>6.Assigning the Work</h3>
+<p>The Muncipal administrator assigns the work to particular department and officer</p>
+
+![Assign](images/assign.gif)
+
+<h3>7.Complete Report</h3>
+<p>After the completion of work the administartor must fill the completion report by attaching the image,work details and cost</p>
+
+![completed](images/completed.gif)
+
